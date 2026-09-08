@@ -1,0 +1,67 @@
+[33mcommit 46c7ee0b76d469f75719757e8c9c203417f7502e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: matthewr02 <mattreynolds500@gmail.com>
+Date:   Sun Sep 6 23:36:08 2026 +0100
+
+    update one.txt file
+
+[33mcommit 8273a8db8bfca95af6a473032f7fbd83de8f4bf8[m
+Author: matthewr02 <mattreynolds500@gmail.com>
+Date:   Sun Sep 6 22:45:00 2026 +0100
+
+    fix file chage in main from text editor
+
+[33mcommit bf4212b387a0447d249106f3571f16043378e279[m[33m ([m[1;32mstaging[m[33m, [m[1;32mdevelopment[m[33m)[m
+Merge: 34bfec3 32655dc
+Author: matthewr02 <mattreynolds500@gmail.com>
+Date:   Sun Sep 6 22:40:03 2026 +0100
+
+    Merge conflict solve
+
+[33mcommit 34bfec38c83868fa288ecb6a93322590831cab5f[m
+Author: matthewr02 <mattreynolds500@gmail.com>
+Date:   Sun Sep 6 22:37:56 2026 +0100
+
+    added 444 on four.txt
+
+[33mcommit 32655dcfd1b9e008addc5ba694d111259101f014[m
+Author: matthewr02 <mattreynolds500@gmail.com>
+Date:   Sun Sep 6 22:36:06 2026 +0100
+
+    changed 44
+
+[33mcommit ebd81c0dfff4a653f9b03f3c83856b54bbd355bd[m
+Merge: 8d89a02 dc4dbc3
+Author: matthewr02 <mattreynolds500@gmail.com>
+Date:   Sun Sep 6 22:31:10 2026 +0100
+
+    Merge main into development
+
+[33mcommit dc4dbc3dd366a0708fd5af1f44ae7e8e0bed0291[m
+Author: matthewr02 <mattreynolds500@gmail.com>
+Date:   Sun Sep 6 22:30:01 2026 +0100
+
+    I changed four.txt and added additional 4
+
+[33mcommit 8d89a02e5608951e006afc4843fe3023ab52bc62[m
+Author: matthewr02 <mattreynolds500@gmail.com>
+Date:   Sun Sep 6 22:17:16 2026 +0100
+
+    I created three.txt and entered three there
+
+[33mcommit a42a2869380efd479f8c2572916f3b3c43a43869[m
+Author: matthewr02 <mattreynolds500@gmail.com>
+Date:   Sun Sep 6 21:53:41 2026 +0100
+
+    making changes for learning git
+
+[33mcommit 4a661eb574c4c8c35c092384b1a7e8b469a49f81[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Matthewr02 <164892418+Matthewr02@users.noreply.github.com>
+Date:   Sat Sep 5 00:15:25 2026 +0100
+
+    Create two.txt with initial content
+
+[33mcommit 77b16b0281326d86dd8a01b556d45696d6da73ff[m
+Author: Matthewr02 <164892418+Matthewr02@users.noreply.github.com>
+Date:   Sat Sep 5 00:13:40 2026 +0100
+
+    Add one.txt with initial content 'one'
